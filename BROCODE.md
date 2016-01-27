@@ -380,3 +380,7 @@ In order to carry the status of "bro" you must obey all of the Bro Code.
 184. Bro’s do not keep a personal diary.
 
 185. A bro never states that "it's too much meat"
+
+186. A bro never declines the opportunity to perform an air guitar solo.
+
+187. A bro understands that, by default, any situation is the perfect situation to rock some AC/DC.
